@@ -2,6 +2,10 @@ title: Intriguing Explorations
 email: josh@santos.cloud 
 description: >- # this means to ignore newlines until "baseurl:"
    Inquisitive thinking with a particular interest in coding, philosophy, and other interesting topics. 
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: thatnerdjosh
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thatnerdjosh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
