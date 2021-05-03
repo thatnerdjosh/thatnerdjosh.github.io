@@ -3,8 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Security
 ---
-# Public GPG Key
+
+## Public GPG Key
+
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGCP/u0BEAC8opncRgOoDtYfn/BFdwUO03xBeMXvesfGc9UAt24NkiVTC50x
@@ -128,3 +132,4 @@ GMzY0QlmDa/MdbWunugJoYPUpVjP8/XoXsYPXoMn5S1HHtdHRH+wNr0Ik0D/xjw2
 ATMg
 =TXHZ
 -----END PGP PUBLIC KEY BLOCK-----
+```
