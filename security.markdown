@@ -134,8 +134,6 @@ ATMg
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-## Hidden Relay Service
+## Hidden Relay Services
 
-```
-yxjc52jj2phrk2ytm7hf6pb2jq6hkijhzwrmfcfujaoc5lvsrhzxghyd.onion
-```
+[OmnidApps](yxjc52jj2phrk2ytm7hf6pb2jq6hkijhzwrmfcfujaoc5lvsrhzxghyd.onion)
