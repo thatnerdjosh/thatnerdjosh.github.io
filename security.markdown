@@ -136,4 +136,4 @@ ATMg
 
 ## Hidden Relay Services
 
-[OmnidApps](yxjc52jj2phrk2ytm7hf6pb2jq6hkijhzwrmfcfujaoc5lvsrhzxghyd.onion)
+[OmnidApps](http://yxjc52jj2phrk2ytm7hf6pb2jq6hkijhzwrmfcfujaoc5lvsrhzxghyd.onion)
